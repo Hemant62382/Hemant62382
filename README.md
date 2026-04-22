@@ -1,9 +1,11 @@
-  👋 Hi, I’m Hemant Rawat  
-💻 I’m a Frontend Web Developer passionate about building user-friendly websites  
-🌱 Currently learning React and working on improving my JavaScript skills  
-🚀 I’ve built and hosted my portfolio at: [hemant62382.github.io/portfolio](https://hemant62382.github.io/portfolio)  
-🔧 Skills: HTML | CSS | JavaScript | Git | React.js | Express.js |Responsive Design  
-📫 How to reach me: hemantrawat62382@gmail.com  
+Full Stack Developer (Entry-Level) with hands-on experience in building responsive web applications using React and Tailwind CSS.
+
+I have developed multiple frontend projects and have working knowledge of backend development using Node.js and Express. I understand core backend concepts including APIs, routing, middleware, controllers, and data flow.
+
+While I am still improving my ability to build complete backend systems independently, I am confident in understanding, debugging, and working with existing codebases.
+
+Currently focused on strengthening my full stack development skills by building real-world projects.
+
 
 <!---
 Hemant62382/Hemant62382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
